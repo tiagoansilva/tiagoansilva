@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Tiago Silva.
+- 👀 I’m interested in Design & Front-end Development.
+- 🌱 I’m currently at university studying Computer Graphics & Multimedia Engineering.
+- 🧐 I’m also learning Front-end Development, specially React Framework.
